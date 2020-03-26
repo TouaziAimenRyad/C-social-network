@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1555000633 source:c:\users\kara bernou\desktop\c programmes\tp alsdd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<malloc.h>
+	<unistd.h>
+	<Windows.h>
+	<unistd.h>
+
+1555170002 source:c:\users\kara bernou\desktop\tp alsdd\ggg.c
+
+1555704538 source:c:\users\kara bernou\desktop\tp alsdd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<malloc.h>
+	<unistd.h>
+	<conio.h>
+	"conio2.h"
+	"GRAPHIQUE.h"
+	<Windows.h>
+	<unistd.h>
+
+1555704592 source:c:\users\kara bernou\desktop\tp alsdd\graphique.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<Windows.h>
+	"dos.h"
+	"conio.h"
+	"conio2.h"
+	<time.h>
+	"GRAPHIQUE.h"
+
+1555642127 c:\users\kara bernou\desktop\tp alsdd\graphique.h
+
+1555536423 c:\users\kara bernou\desktop\tp alsdd\conio.h
+	<_mingw.h>
+
+1555536423 c:\users\kara bernou\desktop\tp alsdd\conio2.h
+	<conio.h>
+	<windows.h>
+
+1555547146 source:c:\users\kara bernou\desktop\tp alsdd\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1555547146 source:c:\users\dell\desktop\tp alsdd tt - copie\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1555536423 c:\users\dell\desktop\tp alsdd tt - copie\conio2.h
+	<conio.h>
+	<windows.h>
+
+1555704592 source:c:\users\dell\desktop\tp alsdd tt - copie\graphique.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<Windows.h>
+	"dos.h"
+	"conio.h"
+	"conio2.h"
+	<time.h>
+	"GRAPHIQUE.h"
+
+1555536423 c:\users\dell\desktop\tp alsdd tt - copie\conio.h
+	<_mingw.h>
+
+1555642127 c:\users\dell\desktop\tp alsdd tt - copie\graphique.h
+
+1555706069 source:c:\users\dell\desktop\tp alsdd tt - copie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<malloc.h>
+	<unistd.h>
+	<conio.h>
+	"conio2.h"
+	"GRAPHIQUE.h"
+	<Windows.h>
+	<unistd.h>
+
+1555550746 source:c:\users\dell\desktop\alsdd\tp alsdd tt - copie\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1555540023 c:\users\dell\desktop\alsdd\tp alsdd tt - copie\conio2.h
+	<conio.h>
+	<windows.h>
+
+1555708192 source:c:\users\dell\desktop\alsdd\tp alsdd tt - copie\graphique.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<Windows.h>
+	"dos.h"
+	"conio.h"
+	"conio2.h"
+	<time.h>
+	"GRAPHIQUE.h"
+
+1555540023 c:\users\dell\desktop\alsdd\tp alsdd tt - copie\conio.h
+	<_mingw.h>
+
+1555645727 c:\users\dell\desktop\alsdd\tp alsdd tt - copie\graphique.h
+
+1555709669 source:c:\users\dell\desktop\alsdd\tp alsdd tt - copie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<malloc.h>
+	<unistd.h>
+	<conio.h>
+	"conio2.h"
+	"GRAPHIQUE.h"
+	<Windows.h>
+	<unistd.h>
+

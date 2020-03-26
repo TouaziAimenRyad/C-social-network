@@ -1,0 +1,10 @@
+ aa  alger  11111111 
+ ahmed  alger  11110111 
+ islam  alger  11111111 
+ mohamed  alger  11101011 
+
+ finale  aa  fin 
+ ahmed  fin 
+ islam  fin 
+ mohamed  islam  fin 
+ finale 
